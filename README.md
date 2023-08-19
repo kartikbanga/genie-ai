@@ -2,7 +2,8 @@
 
 A simple clone of the ChatGPT interface, developed using HTML, CSS, JavaScript, and integrated with OpenAI's API through Express.js on the backend.
 
-![image](https://github.com/kartikbanga/genie-ai/assets/71484653/e52f2699-d3a7-485f-b4f2-b2740079fc5a)
+![Screenshot (196)](https://github.com/kartikbanga/genie-ai/assets/71484653/0c125d76-1197-4f06-b5ff-5ab7190f027c)
+
 
 ## Features
 
